@@ -1,0 +1,11 @@
+# GitHub
+### Plataforma de hospedagem de código - fonte e arquivos com controle de versão usando o Git.
+
+1. Controle de versão
+2. Armazenamento em nuvem
+3. Trabalho em equipe
+4. Melhora o código
+5. Reconhecimento
+
+[Meu perfil](https://github.com/stephclal)
+
